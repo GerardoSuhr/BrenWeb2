@@ -34,7 +34,7 @@ function Body () {
                    </Box>
                    <Box display="flex" flexDirection="column"  justifyContent="center" alignItems="center">
                     <h1>LOREM IPSUM</h1>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dicta quis recusandae delectus iusto iste voluptas minus architecto id! Nesciunt dolor quia labore provident adipisci, quis ducimus facere dicta veniam non. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam, numquam repudiandae sapiente laboriosam id quam porro atque perspiciatis iure ad nihil praesentium odit, perferendis nobis. Modi voluptatum ipsum voluptate veritatis! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime nobis exercitationem, nemo, at vel quaerat ipsum sed delectus voluptatibus adipisci, explicabo odit molestiae deleniti maiores hic sequi! Illo, cumque quod!</p>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dicta quis recusandae delectus iusto iste voluptas minus architecto id! Nesciunt dolor quia labore provident adipisci, quis ducimus facere dicta veniam non. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam, numquam repudiandae sapiente laboriosam id quam porro atque perspiciatis iure ad nihil praesentium odit, perferendis nobis. Modi voluptatum ipsum voluptate veritatis! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime nobis exercitationem, nemo, at vel quaerat ipsum sed delectus voluptatibus adipisci, explicabo odit molestiae deleniti maiores hic sequi! Illo, cumque quod! </p>
                    </Box> 
                    </Box>
                    </Hidden>
