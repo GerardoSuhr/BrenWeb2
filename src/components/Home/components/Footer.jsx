@@ -20,10 +20,10 @@ function Header () {
 
             <Box p={2} alignSelf="end" display="flex" flexDirection="row">
                     <a href="https://www.linkedin.com/in/brenda-sard%C3%B3n-ply-078566226/" target="_blank">
-                <LinkedInIcon sx={{padding: '0 2em 0 0',  color:"black"}} fontSize="large">link</LinkedInIcon>
+                <LinkedInIcon sx={{padding: {xs: '0 1em 0 0', sm: '0 1em 0 0', md: '0 1em 0 0' , lg:  '0 2em 0 0' },  color:"black"}} fontSize="large">link</LinkedInIcon>
                         </a>
                         <a href="https://www.instagram.com/brensardon/" target="_blank">
-                <InstagramIcon sx={{padding: '0 1em 0 0', color:"black"}} fontSize="large">link</InstagramIcon>
+                <InstagramIcon sx={{padding: {xs: '0 1em 0 0', sm: '0 1em 0 0', md: '0 1em 0 0' , lg:  '0 2em 0 0' }, color:"black"}} fontSize="large">link</InstagramIcon>
                         </a>
                
             </Box>     
